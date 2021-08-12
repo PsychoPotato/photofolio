@@ -1,0 +1,9 @@
+#voteForm {
+  min-width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.chatArea {
+}
+
